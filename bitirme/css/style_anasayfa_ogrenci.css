@@ -1,0 +1,71 @@
+
+* { padding: 0; margin: 0; }
+
+body { background: #039a01 url(../img/arka.jpg) repeat fixed; color: #363535; font: normal 11px/18px verdana, arial, helvetica, sans-serif; margin-bottom: 10px; }
+
+#tum { background: url(../img/bg.gif) repeat-y 0% 0%; border-bottom: 1px solid #336600; margin: 0 auto; width: 650px; }
+
+#baslik {  width: 500px; height: 60px; }
+#baslik img{padding-left: 50px; padding-bottom:40px;}
+
+#baslik h1 { color: #58805E ; background:url(../img/z.png)repeat-y 15% 0%; font: 35px/35px georgia, times new roman, times, serif; letter-spacing: 5px; padding: 20px 0 0 150px; }
+
+#left_kisim { display: inline; width: 180px; float: left; }
+
+#main {  float: right; width: 430px; padding: 10px 20px 20px 0; display: inline; position: relative; }
+
+#main p { padding-bottom: 15px; }
+
+#son_kisim { color: #e5f5e5; background-color: #336600; padding: 10px 0 15px 0; height: 30px; text-align: center; }
+
+#son_kisim a { background-image: none; padding: 0; color: #e5f5e5; text-decoration: underline; outline: none; }
+
+#son_kisim a:hover { color: #eee8aa; text-decoration: underline; }
+
+.arka { clear: both; background: none; }
+
+#top ul { padding: 0; margin: 0 4px 0 0; background: #336600 ; float: right; width: 645px; }
+
+* html #top ul { width: 100%; }
+
+#top ul li { display: inline; }
+
+#top ul li a { background-image: none; padding: 3px 10px 3px 20px; color: #e5f5e5; text-decoration: none; float: right; text-transform: uppercase; outline: none; }
+
+#top ul li a:hover { color: #eee8aa; text-decoration: underline; }
+
+#left { width: 175px; }
+
+
+#left ul { margin-left: 4px; padding-left: 0; list-style-type: none; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; }
+
+#left a { background-image: none; display: block; padding: 5px 3px 5px 7px; width: 165px; background-color: #008000; border-bottom: 1px solid #e5f5e5; outline: none; }
+
+#left a:link,#left a:active,#left a:visited  { color: #e5f5e5; text-decoration: none; }
+
+#left a:hover { background-color: #039a01; border-bottom: 1px solid #336600; color: #eee8aa; }
+
+font: 20px/42px georgia, times new roman, times, serif; letter-spacing: 2px; padding-left: 36px; }
+
+#main h2, #main h3 { background-color: #e5f5e5; font: bold 16px/22px georgia, times new roman, times, serif; letter-spacing: 2px; border-top: 1px solid #363636; border-bottom: 1px solid #363636; margin-bottom: 10px; padding-left: 5px; }
+
+#main h4, #main h5, #main h6 { font: bold 11px/18px verdana, arial, helvetica, sans-serif; letter-spacing: 2px; text-transform: uppercase; }
+
+
+
+
+div.tarih { font-size: 10px; margin: 10px 0 10px 10px; }
+
+div.tarih table { border: 1px solid #336600; margin-top: 5px; }
+
+div.tariih td { padding: 0 0 0 2px; }
+
+div.tarih .bugun { background-color: #039A01; color: #fff; }
+
+div.tarih .satir { background-color: #fff; }
+
+#left_kisim h3 { font: bold 11px/18px verdana,arial, helvetica, sans-serif; text-transform: uppercase; letter-spacing: 2px; margin: 10px 0 10px 0; }
+
+#left_kisim h4 {  margin: 10px 5px 0 0; font: bold 11px/18px verdana,arial, helvetica, sans-serif; text-transform: uppercase; letter-spacing: 2px; text-align: left; border-top: 1px solid #336600; padding-top: 5px; }
+
+

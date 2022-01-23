@@ -1,0 +1,25 @@
+$button: rgba(148,186,101,0.7);
+
+body {
+  background: #fff;
+  font-size: 10px
+}
+
+form {
+  background: #D8FFDE;
+  padding: 4em 4em 2em;
+  max-width: 400px;
+  margin: 50px auto 0;
+  box-shadow: 0 0 3em #336600;
+}
+  
+.but{ color:white; background-color:#58805E }
+
+
+.arka { clear: both; background: none; }
+
+#son_kisim { color: #e5f5e5; background-color: #58805E; padding: 10px 0 15px 0; height: 30px; text-align: center; }
+
+#son_kisim a { background-image: none; padding: 0; color: #e5f5e5; text-decoration: underline; outline: none; }
+
+#son_kisim a:hover { color: #eee8aa; text-decoration: underline; }
